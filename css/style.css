@@ -186,6 +186,11 @@ body {
   text-decoration: none;
 }
 
+.footer-list a:hover,
+.footer-list a:focus {
+  color: var(--brand-color);
+}
+
 /* portfolio page */
 
 .button {
